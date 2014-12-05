@@ -1,3 +1,7 @@
+# 0.0.5opower1
+
+* Support binary kafka payloads (Cherry-picked f203e1a9 from https://github.com/bpot/poseidon/pull/74)
+
 # 0.0.5 (Unreleased)
 
 * Fix serious bug where we would send messages to the wrong partition [GH-36]. (Thanks @sclasen and @jorgeortiz85 for tracking this down.)
